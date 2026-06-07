@@ -70,13 +70,26 @@ pip install -r requirements.txt
 
 ## 📊 Data Supplier
 
-| Supplier |(km)|Kualitas|Waktu Kirim (hari)  |
------------------------------------------------
-| Supplier A | 	85	| 10	| 90	3 |           |
-| Supplier B |	70	| 25	| 75	5 |           |
-| Supplier C |	90	| 15	| 95	2 |           |
-| Supplier D |	60	| 40	| 65	7 |           |
-| Supplier E |	80	| 20	| 85	4 |           |
+## 📊 Data Supplier
+
+Berikut adalah data 5 supplier yang digunakan dalam sistem:
+
+| Supplier | Harga (Rp) | Jarak (km) | Kualitas (0-100) | Waktu Kirim (hari) |
+|----------|------------|------------|------------------|-------------------|
+| Supplier A | 85.000 | 10 | 90 | 3 |
+| Supplier B | 70.000 | 25 | 75 | 5 |
+| Supplier C | 90.000 | 15 | 95 | 2 |
+| Supplier D | 60.000 | 40 | 65 | 7 |
+| Supplier E | 80.000 | 20 | 85 | 4 |
+
+### Keterangan Kriteria
+
+| Kriteria | Jenis | Keterangan |
+|----------|-------|-------------|
+| Harga | Cost ↓ | Semakin kecil nilai, semakin baik |
+| Jarak | Cost ↓ | Semakin kecil nilai, semakin baik |
+| Kualitas | Benefit ↑ | Semakin besar nilai, semakin baik |
+| Waktu Kirim | Cost ↓ | Semakin kecil nilai, semakin baik |
 
 ## 🧮 Metode Perhitungan
 Normalisasi Min-Max
