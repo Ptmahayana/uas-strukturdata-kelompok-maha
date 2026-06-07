@@ -100,7 +100,8 @@ Kriteria Benefit (Kualitas):
 ```text
 Normalized = (Value - Min) / (Max - Min)
 Weighted Sum Model (WSM)
-text
+```
+```text
 Total Score = Σ (Bobot_i × Normalized_i)
 ```
 ## 🔍 Algoritma Dijkstra
