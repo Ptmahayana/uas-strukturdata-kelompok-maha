@@ -55,11 +55,17 @@ pip install -r requirements.txt
 ```
 ## 🎯 Fitur Aplikasi
 ### Fitur	Keterangan
+
 ✅ Tabel Data Supplier	Menampilkan 5 supplier dengan 4 kriteria
+
 ✅ Atur Bobot Kriteria	User bisa mengatur bobot via sidebar
+
 ✅ Perhitungan Skor Otomatis	Skor berubah real-time saat bobot diubah
+
 ✅ Rekomendasi Supplier Terbaik	Menampilkan supplier dengan skor tertinggi
+
 ✅ Visualisasi Graph	Menampilkan jalur Pabrik → Supplier
+
 ✅ Pencarian Jalur Terpendek	Algoritma Dijkstra untuk mencari rute optimal
 
 ## 📊 Data Supplier
