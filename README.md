@@ -70,8 +70,6 @@ pip install -r requirements.txt
 
 ## 📊 Data Supplier
 
-## 📊 Data Supplier
-
 Berikut adalah data 5 supplier yang digunakan dalam sistem:
 
 | Supplier | Harga (Rp) | Jarak (km) | Kualitas (0-100) | Waktu Kirim (hari) |
