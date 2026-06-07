@@ -38,3 +38,13 @@ DSS/
 ├── run_dss.bat # Shortcut untuk menjalankan aplikasi (Windows)
 
 └── README.md # Dokumentasi proyek
+
+
+---
+
+## 🚀 Cara Menjalankan Aplikasi
+
+### **Persiapan (Install Package)**
+
+```bash
+pip install streamlit pandas plotly networkx matplotlib
