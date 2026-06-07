@@ -26,9 +26,15 @@ Proyek ini menggunakan **Struktur Data Graph** dengan algoritma **Dijkstra** unt
 
 ## 📁 Struktur File
 DSS/
+
 ├── app.py # Aplikasi utama Streamlit
+
 ├── graph_model.py # Class Graph & Algoritma Dijkstra
+
 ├── data_supplier.py # Data supplier & fungsi normalisasi
+
 ├── requirements.txt # Daftar package yang dibutuhkan
+
 ├── run_dss.bat # Shortcut untuk menjalankan aplikasi (Windows)
+
 └── README.md # Dokumentasi proyek
