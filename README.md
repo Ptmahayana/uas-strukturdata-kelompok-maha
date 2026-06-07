@@ -1,1 +1,1 @@
-# uas-strukturdata-kelompok-maha
+# Project UAS Struktur Data: Aplikasi DSS Pemilihan Supplier
