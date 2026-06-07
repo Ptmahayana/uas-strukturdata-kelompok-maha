@@ -48,3 +48,8 @@ DSS/
 
 ```bash
 pip install streamlit pandas plotly networkx matplotlib
+```
+### **Jika Menggunakan Requirement.txt**
+```bash
+pip install -r requirements.txt
+```
