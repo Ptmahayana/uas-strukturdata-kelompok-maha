@@ -70,13 +70,13 @@ pip install -r requirements.txt
 
 ## 📊 Data Supplier
 
-| Supplier   | (km)	Kualitas	Waktu Kirim (hari)
+| Supplier |(km)|Kualitas|Waktu Kirim (hari)  |
 -----------------------------------------------
-| Supplier A | 	85	| 10	| 90	3 |
-| Supplier B |	70	| 25	| 75	5 |
-| Supplier C |	90	| 15	| 95	2 |
-| Supplier D |	60	| 40	| 65	7 |
-| Supplier E |	80	| 20	| 85	4 |
+| Supplier A | 	85	| 10	| 90	3 |           |
+| Supplier B |	70	| 25	| 75	5 |           |
+| Supplier C |	90	| 15	| 95	2 |           |
+| Supplier D |	60	| 40	| 65	7 |           |
+| Supplier E |	80	| 20	| 85	4 |           |
 
 ## 🧮 Metode Perhitungan
 Normalisasi Min-Max
